@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Oleo+Script+Swash+Caps&display=swap');
+
+
+
+.txt {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.pedro {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.img {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+.img2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.img3 {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.text3 {
+    margin-block-start: 50px;
+}
+
+.txt4 {
+    margin: 100px;
+}
+
+.txt5 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.s {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
